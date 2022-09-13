@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Gwen</h1>
+<h1 align="center">Hey there, I'm Gwen ♥️</h1>
 
 <h2 align="center">I make bad websites and random garbage</h2>
 
