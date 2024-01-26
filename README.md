@@ -1,7 +1,5 @@
 <h1 align="center">Hey there, I'm Gwen ♥️</h1>
 
-<h2 align="center">I make bad websites and random garbage</h2>
-
 <p align="center"><a href="https://steam.design"><img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=Down%20%3A%28&label=Steam.Design&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Fsteam.design"></a> <a href="https://oddball.tf"><img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=Down%20%3A%28&label=Oddball.tf&style=for-the-badge&up_color=green&up_message=Up&url=https%3A%2F%2Foddball.tf"></a> <a href="https://discord.com/users/68946899150839808" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/theoddball-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a> <img alt="Pronouns: she/her" src="https://img.shields.io/static/v1?label=Pronouns&message=she/her&color=E6A1FF&style=for-the-badge" /></p>
 
 <h3 align="center">Languages</h3>
